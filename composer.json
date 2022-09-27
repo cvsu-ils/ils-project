@@ -1,6 +1,6 @@
 {
-    "name": "cvsu-ils/ils",
-    "description": "Integrated library system of Cavite State University",
+    "name": "cvsu-ils/ils-project",
+    "description": "A template project for Cavite State University Integrated Library System",
     "type": "project",
     "require": {
         "cvsu-ils/core": "^1.0"
