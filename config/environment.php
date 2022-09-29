@@ -1,7 +1,7 @@
 <?php
     return $environment = [
 		'environment' => [
-			'local' => "/ils/",
+			'local' => "/ils-project/",
 			'sandbox' => "",
 			'live' => ""
         ]
