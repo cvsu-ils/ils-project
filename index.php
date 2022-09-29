@@ -23,6 +23,7 @@ $app = new Application($config);
 $app->router->Get('/', function() {
     echo "Hello World";
 });
+$app->router->Get('/test', [\IntegratedLibrarySystem\App\Controllers\TestController::class, 'Test']);
 /*
 |--------------------------------------------------------------------------
 | GUEST View Routes
