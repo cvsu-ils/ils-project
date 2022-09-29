@@ -1,3 +1,4 @@
 .env
+.gitignore
 composer.lock
 vendor/
